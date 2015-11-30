@@ -1,0 +1,16 @@
+name: HungerGames	
+main: HungerGames.HungerMain
+version: 0.5 beta
+description: HungerGames Minecraft Mini game
+
+commands:
+  hg:
+    description: Minigame setup commands family. Usage /draw [arguments.....]
+    aliases: [hgames,setup,game]
+  hub:
+    description: Leave server. Usage /hub [arguments.....]
+    aliases: [leave,exit,lobby]
+    
+#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# drawit.setting
+#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
